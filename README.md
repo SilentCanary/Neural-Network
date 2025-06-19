@@ -1,6 +1,4 @@
-# Neural-Network
-
-# 🧠 MNIST Neural Network in C++ (from scratch)
+# Neural-Network in C++
 
 This is a basic neural network built **entirely from scratch in C++** to recognize handwritten digits using the **MNIST dataset**.
 
